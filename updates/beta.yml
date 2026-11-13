@@ -1,0 +1,10 @@
+version: 0.14.6
+files:
+  - url: "https://github.com/BaiKudan/x-neige-releases/releases/download/v0.14.6/X-Neige-Setup-0.14.6-x64.exe"
+    sha512: "U+nNwT/PHkxfFLDtSd5KHnUWvN3ALRzb6w2mIrHh0ZN3XbNX0LHFREZVPrsM0DJZNlLlXVOQjhczl+q2j3U4+g=="
+    size: 189607005
+path: "https://github.com/BaiKudan/x-neige-releases/releases/download/v0.14.6/X-Neige-Setup-0.14.6-x64.exe"
+sha512: "U+nNwT/PHkxfFLDtSd5KHnUWvN3ALRzb6w2mIrHh0ZN3XbNX0LHFREZVPrsM0DJZNlLlXVOQjhczl+q2j3U4+g=="
+releaseDate: "2026-11-12T10:04:50.886Z"
+releaseName: "X内阁 0.14.6"
+releaseNotes: "Windows 稳定版，支持稳定和 Beta 更新频道。"
